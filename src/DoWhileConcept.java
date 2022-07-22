@@ -7,6 +7,6 @@ public class DoWhileConcept {
 		System.out.println("the numbers:"+ a);
 		a++;
 	} while (a<=22);
-	
+	system.out.println("values");
 }
 }
