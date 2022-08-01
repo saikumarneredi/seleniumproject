@@ -6,7 +6,8 @@ public class Cost {
 		
 		int cost = 100 ;
 		
-		if ()
+		if (cost>50){
+			System.out.println("print");
 
 	}
 
